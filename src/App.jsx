@@ -80,7 +80,6 @@ function App() {
         <h1>Veni Vici!</h1>
         <h2>Discover cats from your wildest dreams!</h2>
         <h2>😺😸😹😻😼😽🙀😿😾</h2>
-        <h3>Alexander Tertus z23630485</h3>
         <button className="discover-btn" onClick={fetchCat}>Get a Random Cat</button>
         <br></br>
         {currentCat ? (
