@@ -22,6 +22,4 @@ Welcome to Veni Vici! This application allows you to discover random cat images 
 
 Enjoy discovering the wonderful world of cats with Veni Vici!
 
-Alexander Tertus z23630485
 
-![ezgif-56c6bb543ba748](https://github.com/user-attachments/assets/bfdae1f2-7433-4128-8f02-e815a00c519d)
